@@ -1,0 +1,7 @@
+mkdir meu-site-pessoal
+cd meu-site-pessoal
+git init
+touch index.html styles.css
+script.js
+<title>Meu Site Pessoal</
+Bem vindo ao meu site pessoal!!</
